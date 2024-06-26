@@ -5,7 +5,6 @@
 
 오라클 수업 내용을 개인적으로 정리하였음 
 
-<img src="https://github.com/hippocampotamus/Data-hippocampus/blob/main/001.png" width="600" height="400">
 https://www.miricanvas.com/ko/templates 그림 만들기 
 
 &nbsp;
