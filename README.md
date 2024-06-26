@@ -1,12 +1,8 @@
-# 오라클 RAC 수업
+# SQL 튜닝 수업 노트
 
-안녕하세요, 여러분!  🌟
+오라클 튜닝 수업 내용을 개인적으로 정리하였음 
 
-초보자도 쉽게 배울 수 있도록 오라클 RAC 수업 내용을 정리하였습니다.
-
-<img src="https://github.com/oracleyu01/rac_class/blob/main/001.png?raw=true" width="600" height="400">
-
-![001](https://github.com/hippocampotamus/Data-hippocampus/assets/173865301/df07e5a2-d5e9-4352-ade1-9292747c228c)
+<img src="https://github.com/hippocampotamus/Data-hippocampus/blob/main/001.png" width="600" height="400">
 
 
 &nbsp;
