@@ -6,6 +6,9 @@
 
 <img src="https://github.com/oracleyu01/rac_class/blob/main/001.png?raw=true" width="600" height="400">
 
+![001](https://github.com/hippocampotamus/Data-hippocampus/assets/173865301/df07e5a2-d5e9-4352-ade1-9292747c228c)
+
+
 &nbsp;
 
 ## 수업 자료( ☀️ 2024년 3월 23일 updated)
