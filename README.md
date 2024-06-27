@@ -64,11 +64,10 @@ R 수업 내용을 정리하였습니다.
 
 
 
-- **R이란**:  📄[노트]
-- (https://www.notion.so/R-7bd00e4944224b71895dfefcc34fa70a?pvs=4)
+- **R이란**:  📄[노트](https://www.notion.so/R-7bd00e4944224b71895dfefcc34fa70a?pvs=4)
+-
+- [노트]- (https://www.notion.so/R-7bd00e4944224b71895dfefcc34fa70a?pvs=4)
   
-- **R 검색 문법 기초**: 📄 [노트]
-- (https://www.notion.so/R-8388aec5699644d4999539a32f9acc62?pvs=4)
+- **R 검색 문법 기초**: 📄 [노트](https://www.notion.so/R-8388aec5699644d4999539a32f9acc62?pvs=4)
 
-- **R 사용 기초**: 📄 [노트]
-- (https://www.notion.so/R-6da2269874e74a11ba5a6ac77d96a7a1?pvs=4)
+- **R 사용 기초**: 📄 [노트](https://www.notion.so/R-6da2269874e74a11ba5a6ac77d96a7a1?pvs=4)
