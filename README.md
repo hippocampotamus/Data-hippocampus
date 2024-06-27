@@ -5,6 +5,8 @@
 
 # SQL 수업 노트
 
+관련 자격증: SQL 개발자(SQLD)
+
 https://www.miricanvas.com/ko/templates 그림 만들기 
 
 &nbsp;
@@ -58,9 +60,9 @@ https://www.miricanvas.com/ko/templates 그림 만들기
 
 
 
-# 빅분기 준비를 위한 R 수업 노트
+# R 수업 노트
 
-
+관련 자격증: 빅데이터분석기사, 데이터분석 준전문가(ADsP)
 
 ## 수업 자료(2024년 6월 27일 updated)
 
