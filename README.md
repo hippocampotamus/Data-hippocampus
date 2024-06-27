@@ -35,7 +35,7 @@ https://www.miricanvas.com/ko/templates 그림 만들기
 
 # SQL 튜닝 수업 노트
 
-
+관련 자격증: SQL 전문가(SQLP)
 
 ## 수업 자료( ☀️ 2024년 3월 23일 updated)
 
