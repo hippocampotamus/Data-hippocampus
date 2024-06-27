@@ -33,7 +33,10 @@ https://www.miricanvas.com/ko/templates 그림 만들기
 
 # SQL 튜닝 수업 노트
 
+
+
 ## 수업 자료( ☀️ 2024년 3월 23일 updated)
+
 
 
 - **1. 옵티마이저 및 기초**:  📄[노트](https://www.notion.so/bbc5f2e84be44dd1a82627931a2ce6a0?pvs=4)
@@ -57,7 +60,10 @@ https://www.miricanvas.com/ko/templates 그림 만들기
 
 # 빅분기 준비를 위한 R 수업 노트
 
+
+
 ## 수업 자료(2024년 6월 27일 updated)
+
 
 
 - **1. R이란**:  📄[노트](https://www.notion.so/R-7bd00e4944224b71895dfefcc34fa70a?pvs=4)
