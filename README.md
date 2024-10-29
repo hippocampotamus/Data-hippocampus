@@ -101,7 +101,7 @@ https://www.miricanvas.com/ko/templates 그림 만들기
 - **주요 기능**: ...
 - **관련 링크**:
 - [코드 다운로드]
-  - [헬멧 감지 데이터셋](https://helmet-dataset.com/)
+  - [헬멧 감지 데이터셋]()
 - **시연 이미지**:  
   !(https://user-images.githubusercontent.com/yourusername/your-video-file5.mp4)
 
