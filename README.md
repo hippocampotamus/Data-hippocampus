@@ -89,8 +89,7 @@ https://www.miricanvas.com/ko/templates 그림 만들기
 - **코드**: https://colab.research.google.com/drive/13T0kutpXo5_PSfEt3GdIy2FI9nPdjvyx?usp=sharing
 - **시연 사진**:  
   -
-  - YOLO 모델 코드 다운로드](https://github.com/ultralytics/yolov5)
-  - [OpenCV 공식 문서](https://docs.opencv.org/)
+  - YOLO 모델 코드 다운로드](https://colab.research.google.com/drive/13T0kutpXo5_PSfEt3GdIy2FI9nPdjvyx?usp=sharing)
 - **시연 영상**:  
 [![유동인구 카운트 영상](https://github.com/oracleyu01/pilot/blob/main/sjk.jpg)](https://github.com/oracleyu01/pilot/blob/main/sjk_with_counts_vrew_exported.mp4)
 
@@ -100,10 +99,10 @@ https://www.miricanvas.com/ko/templates 그림 만들기
 - **프로젝트 설명**: ...
 - **주요 기능**: ...
 - **관련 링크**:
-- [코드 다운로드]
-  - [헬멧 감지 데이터셋]()
+- [코드 다운로드]https://colab.research.google.com/drive/1W40Odsndj5EFLFEIJrUc_lXDWcvZmpUF?usp=sharing
+
 - **시연 이미지**:  
-  !(https://user-images.githubusercontent.com/yourusername/your-video-file5.mp4)
+  !(https://github.com/hippocampotamus/Data-hippocampus/blob/main/51506a6e62d1b8f2bcc7f9a849c8055e6a71c1fe.png)
 
 ---
 
