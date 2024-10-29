@@ -96,6 +96,17 @@ https://www.miricanvas.com/ko/templates 그림 만들기
 
 ---
 
+### 2. 엑스레이에서 폐결절을 찾는 파일럿 프로젝트
+- **프로젝트 설명**: ...
+- **주요 기능**: ...
+- **관련 링크**:
+- [코드 다운로드]
+  - [헬멧 감지 데이터셋](https://helmet-dataset.com/)
+- **시연 이미지**:  
+  !(https://user-images.githubusercontent.com/yourusername/your-video-file5.mp4)
+
+---
+
 ### 2. 도둑감지 YOLO 신경망 활용 파일럿 프로젝트
 - **프로젝트 설명**: 무인 감시 시스템을 위한 도둑 감지 기능. YOLO 모델을 통해 특정 위치에서의 불법 침입자를 실시간으로 탐지.
 - **주요 기능**: 실시간 침입자 감지, 위험 알림, 비상 조치 기능.
@@ -126,18 +137,8 @@ https://www.miricanvas.com/ko/templates 그림 만들기
 - **시연 영상**:  
   ![얼굴 인식 시스템 영상](https://user-images.githubusercontent.com/yourusername/your-video-file4.mp4)
 
----
+  ---
 
-### 5. 안전 헬멧 착용 감지 파일럿 프로젝트
-- **프로젝트 설명**: 작업 현장에서 안전 헬멧 착용 여부를 감지하여 안전 규정을 준수하는지 확인.
-- **주요 기능**: 헬멧 착용 감지, 안전 경고, 실시간 알림.
-- **관련 링크**:
-- [코드 다운로드]
-  - [헬멧 감지 데이터셋](https://helmet-dataset.com/)
-- **시연 영상**:  
-  ![헬멧 착용 감지 영상](https://user-images.githubusercontent.com/yourusername/your-video-file5.mp4)
-
----
 
 ## 설치 및 실행 방법
 
