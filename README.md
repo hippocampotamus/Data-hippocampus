@@ -102,7 +102,7 @@ https://www.miricanvas.com/ko/templates 그림 만들기
 - [코드 다운로드]https://colab.research.google.com/drive/1W40Odsndj5EFLFEIJrUc_lXDWcvZmpUF?usp=sharing
 
 - **시연 이미지**:  
-  !(https://github.com/hippocampotamus/Data-hippocampus/blob/main/51506a6e62d1b8f2bcc7f9a849c8055e6a71c1fe.png)
+  ![시연 이미지](https://github.com/hippocampotamus/Data-hippocampus/blob/main/51506a6e62d1b8f2bcc7f9a849c8055e6a71c1fe.png)
 
 ---
 
